@@ -10,6 +10,9 @@ namespace leotext
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(852);
+            Console.WriteLine(852123);
+            Console.WriteLine(852123123);
         }
     }
 }
